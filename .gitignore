@@ -1,0 +1,7 @@
+build/
+output/
+output-dl/
+debug/
+__pycache__/
+*.pyc
+.DS_Store
